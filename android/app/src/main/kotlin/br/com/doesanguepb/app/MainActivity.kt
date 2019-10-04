@@ -1,4 +1,4 @@
-package br.com.doesanguepb.doe_sangue_pb
+package br.com.doesanguepb.app
 
 import android.os.Bundle
 

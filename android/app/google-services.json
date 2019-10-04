@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485879987037",
+    "firebase_url": "https://aplicativo-8c859.firebaseio.com",
+    "project_id": "aplicativo-8c859",
+    "storage_bucket": "aplicativo-8c859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485879987037:android:8ced96eb9d37e1324b46b4",
+        "android_client_info": {
+          "package_name": "br.com.doesanguepb.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485879987037-mfl7ctcsh6f5vn177tneca40bseb96oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQmT_Wl7hCrGL-f86XBSsgRH1BRbDQ6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485879987037-mfl7ctcsh6f5vn177tneca40bseb96oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
