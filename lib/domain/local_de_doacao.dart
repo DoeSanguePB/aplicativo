@@ -12,6 +12,8 @@ class LocalDeDoacao {
       this.nome, this.logradouro, this.bairro, this.cidade, this.uf, this.telefone, this.latitude, this.longitude);
 
   String telefoneSemSimbolos() => telefone.replaceAll("(", "").replaceAll(")", "").replaceAll("-", "");
+
+  String shareText() => "**$nome**\n\nEndereço:$logradouro. $bairro. $cidade - $uf\nTelefone: $telefone";
 }
 
 final locaisDeDoacao = [

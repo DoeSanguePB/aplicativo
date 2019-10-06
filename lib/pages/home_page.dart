@@ -42,7 +42,7 @@ class _HomePageState extends State<HomePage> {
 
   Widget _buildBottomBar() {
     return Theme(
-      data: Theme.of(context).copyWith(canvasColor: primaryColor),
+      data: Theme.of(context).copyWith(canvasColor: primaryColor, textTheme: ThemeData.dark().textTheme),
       child: BottomNavigationBar(
         items: <BottomNavigationBarItem>[
           BottomNavigationBarItem(
