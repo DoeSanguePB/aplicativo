@@ -18,5 +18,6 @@ ThemeData appTheme() {
     ),
     backgroundColor: backgroundWhite,
     primaryIconTheme: base.iconTheme.copyWith(color: backgroundWhite),
+    textTheme: ThemeData.light().textTheme,
   );
 }
